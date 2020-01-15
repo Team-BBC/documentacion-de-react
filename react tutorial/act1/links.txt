@@ -1,0 +1,8 @@
+
+first glance of the project https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
+how to create a react app  https://www.codecademy.com/articles/how-to-create-a-react-app
+https://www.youtube.com/watch?v=pCgDRgmfilE
+
+create-react-app not working forum   https://github.com/facebook/create-react-app/issues/3594
+
+how to create a github page  https://pages.github.com/
